@@ -22,7 +22,9 @@ a:visited {
 .white {
   color:white;
 }
-
+.center {
+  text-align:center;
+}
 #top {
   background-image: url("../photos/the-flatiron-building.png")
 }
