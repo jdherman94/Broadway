@@ -8,6 +8,13 @@ h1 {
   color:white;
 }
 
+a:link {
+  color: white;
+}
+a:visited {
+  color:white;
+}
+
 .c18px {
   font-size:18px;
 }
