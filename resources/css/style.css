@@ -39,10 +39,6 @@ a:visited {
   color:white;
 }
 
-.colordimgray {
-  color:dimgray;
-}
-
 .backgroundcolordimgray {
   background-color:dimgray;
 }
@@ -55,5 +51,9 @@ a:visited {
 }
 
 #top {
+  background-image: url("../photos/the-flatiron-building.png")
+}
+
+#bottom1 {
   background-image: url("../photos/the-flatiron-building.png")
 }
